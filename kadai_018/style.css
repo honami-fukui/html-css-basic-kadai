@@ -6,7 +6,7 @@
   margin-top: 20px;
   text-align: center;
 }
-p{
+.top-child{
   display: inline-block;
   width: 160px;
   background-color: #ffd9df;
@@ -64,9 +64,8 @@ p{
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute;
+  position: relative;
   left: 200px;
-  top: 100px;
 }
 #bottom-child03{
   width: 400px;
